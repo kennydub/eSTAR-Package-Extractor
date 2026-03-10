@@ -86,7 +86,6 @@ Files that don't match any pattern are placed at the end, in the order they were
 estar-extractor/
 ├── estar_extractor.py          # Main application (GUI + extraction logic)
 ├── Run_eSTAR_Extractor.bat     # Windows launcher
-├── CLAUDE.md                   # AI assistant development guide
 └── README.md                   # This file
 ```
 
